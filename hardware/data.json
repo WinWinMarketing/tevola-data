@@ -1,0 +1,128 @@
+[
+  {
+    "name": "Chinese Hinges",
+    "categoryId": "1747164391394-6g42w7j",
+    "cost": 1.5,
+    "supplierId": "1747112234255",
+    "id": "1747164444263-oduq5vk"
+  },
+  {
+    "name": "Chinese Drawer Slides",
+    "categoryId": "1747164403635-r7d1tgq",
+    "cost": 10,
+    "supplierId": "1747112234255",
+    "id": "1747164465930-fk23s80"
+  },
+  {
+    "name": "Black Handles (128mm)",
+    "categoryId": "1747164397645-n6uj5fs",
+    "cost": 4,
+    "supplierId": "1747112234255",
+    "id": "1747164500555-fwnkcxv"
+  },
+  {
+    "name": "Chrome Handles (128mm)",
+    "categoryId": "1747164397645-n6uj5fs",
+    "cost": 4,
+    "supplierId": "1747112234255",
+    "id": "1747164521409-rx1l38a"
+  },
+  {
+    "name": "Vinyl Door",
+    "categoryId": "1747344678663-zpu3dii",
+    "cost": 45,
+    "supplierId": "",
+    "id": "1747344691411-484o6o9"
+  },
+  {
+    "name": "Vinyl End Panel",
+    "categoryId": "1747344678663-zpu3dii",
+    "cost": 40,
+    "supplierId": "",
+    "id": "1747344712557-yuwe57b"
+  },
+  {
+    "name": "Quartz",
+    "categoryId": "1747345134811-ufx8a5y",
+    "cost": 35,
+    "supplierId": "",
+    "id": "1747345152267-nrsqhfg"
+  },
+  {
+    "name": "Kitchen Sink",
+    "categoryId": "1747101605236",
+    "cost": 200,
+    "supplierId": "",
+    "id": "1747345333165-381huun"
+  },
+  {
+    "name": "Laminate Counter",
+    "categoryId": "1747345134811-ufx8a5y",
+    "cost": 25,
+    "supplierId": "",
+    "id": "1748023843275-ifem47l"
+  },
+  {
+    "name": "Door",
+    "categoryId": "1748277551802-ojwoffd",
+    "cost": 55,
+    "supplierId": "1748277662927-uqrynmr",
+    "id": "1748277738346-4yfy3pw"
+  },
+  {
+    "name": "Drawer",
+    "categoryId": "1748277551802-ojwoffd",
+    "cost": 45,
+    "supplierId": "1748277662927-uqrynmr",
+    "id": "1748277750695-k4paybu"
+  },
+  {
+    "name": "Small Drawer",
+    "categoryId": "1748277551802-ojwoffd",
+    "cost": 40,
+    "supplierId": "1748277662927-uqrynmr",
+    "id": "1748277765417-jdr2ok9"
+  },
+  {
+    "name": "Large Panel",
+    "categoryId": "1748277551802-ojwoffd",
+    "cost": 140,
+    "supplierId": "1748277662927-uqrynmr",
+    "id": "1748277784353-bzulxhz"
+  },
+  {
+    "name": "Side Panel",
+    "categoryId": "1748277551802-ojwoffd",
+    "cost": 50,
+    "supplierId": "1748277662927-uqrynmr",
+    "id": "1748277797574-jc7mksn"
+  },
+  {
+    "name": "10FT Crown",
+    "categoryId": "1748277551802-ojwoffd",
+    "cost": 50,
+    "supplierId": "1748277662927-uqrynmr",
+    "id": "1748277817457-an3aodz"
+  },
+  {
+    "name": "Garbage Pull",
+    "categoryId": "1748278833166-9kosvee",
+    "cost": 250,
+    "supplierId": "1747112253001",
+    "id": "1748278846556-uquh1ue"
+  },
+  {
+    "name": "Spice Rack",
+    "categoryId": "1748278833166-9kosvee",
+    "cost": 200,
+    "supplierId": "1747112253001",
+    "id": "1748278858573-d83arp5"
+  },
+  {
+    "name": "Quartz Backsplash",
+    "categoryId": "1747345134811-ufx8a5y",
+    "cost": 35,
+    "supplierId": "",
+    "id": "1748278891180-swoicqz"
+  }
+]
