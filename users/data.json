@@ -10,5 +10,16 @@
     "lastLogin": "2025-05-27T02:28:45.235Z",
     "email": "info@tevolakitchen.com",
     "mustChangePassword": false
+  },
+  {
+    "id": "user-1748312998909",
+    "username": "Nitesh",
+    "email": "",
+    "password": "39c58a865c53d9a1022f18f271f9b18c40892c376329da07344e4551eaa7915f",
+    "role": "employee",
+    "isActive": true,
+    "createdAt": "2025-05-27T02:29:58.909Z",
+    "lastLogin": null,
+    "mustChangePassword": false
   }
 ]
