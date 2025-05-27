@@ -2,7 +2,7 @@
   {
     "id": "admin-001",
     "username": "admin",
-    "password": "$2b$10$rOzJqQZ8kVxHxGxGxGxGxOzJqQZ8kVxHxGxGxGxGxOzJqQZ8kVxHxG",
+    "password": "admin",
     "role": "admin",
     "isActive": true,
     "requirePasswordChange": false,
