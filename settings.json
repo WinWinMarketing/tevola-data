@@ -1,0 +1,18 @@
+{
+  "companyName": "Tevola",
+  "address": "",
+  "phone": "",
+  "email": "",
+  "taxRate": 13,
+  "currency": "CAD",
+  "darkMode": false,
+  "github": {
+    "username": "",
+    "repo": "",
+    "token": "",
+    "enabled": false,
+    "syncFrequency": 5,
+    "conflictStrategy": "lastWriteWins",
+    "initialSyncComplete": false
+  }
+}
