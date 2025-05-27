@@ -1,12 +1,12 @@
 [
-{
-  "id": "admin-1748312772601",
-  "username": "admin",
-  "password": "3047794c1678338b6da47f91114b1bda53d419d0bcba0d41e04d6c2ca5fbd6af",
-  "role": "admin",
-  "isActive": true,
-  "requirePasswordChange": false,
-  "createdAt": "2025-05-27T02:26:12.601Z",
-  "lastLogin": null
-}
+  {
+    "id": "admin-1748312772601",
+    "username": "admin",
+    "password": "3047794c1678338b6da47f91114b1bda53d419d0bcba0d41e04d6c2ca5fbd6af",
+    "role": "admin",
+    "isActive": true,
+    "requirePasswordChange": false,
+    "createdAt": "2025-05-27T02:26:12.601Z",
+    "lastLogin": "2025-05-27T02:27:47.199Z"
+  }
 ]
