@@ -1,0 +1,74 @@
+[
+  {
+    "name": "5/8 White Melamine",
+    "categoryId": "1747113007603",
+    "dimensions": "4x8",
+    "supplierPrices": [
+      {
+        "supplierId": "1747110982394",
+        "cost": 29.6
+      }
+    ],
+    "id": "1747163536749-6zxdh3g"
+  },
+  {
+    "name": "3/4 H.G Modern Grey MDF",
+    "categoryId": "1747113012115",
+    "dimensions": "4x9",
+    "supplierPrices": [
+      {
+        "supplierId": "1747111125879",
+        "cost": 150
+      }
+    ],
+    "id": "1747163590300-px3brsd"
+  },
+  {
+    "name": "3/4 H.G Sand Beige MDF",
+    "categoryId": "1747113012115",
+    "dimensions": "4x9",
+    "supplierPrices": [
+      {
+        "supplierId": "1747111125879",
+        "cost": 150
+      }
+    ],
+    "id": "1747163614878-3ns6564"
+  },
+  {
+    "name": "3/4 H.G White MDF",
+    "categoryId": "1747113012115",
+    "dimensions": "4x8",
+    "supplierPrices": [
+      {
+        "supplierId": "1747112208236",
+        "cost": 85
+      }
+    ],
+    "id": "1747163681149-2qlfsf0"
+  },
+  {
+    "name": "18mm Unfinished Birch Plywood",
+    "categoryId": "1747113017149",
+    "dimensions": "4x8",
+    "supplierPrices": [
+      {
+        "supplierId": "1747110982394",
+        "cost": 49
+      }
+    ],
+    "id": "1747163732216-qjyang5"
+  },
+  {
+    "name": "Raw MDF",
+    "categoryId": "1747113012115",
+    "dimensions": "4x8",
+    "supplierPrices": [
+      {
+        "supplierId": "1747110982394",
+        "cost": 50
+      }
+    ],
+    "id": "1748277531857-4hjzyxv"
+  }
+]
