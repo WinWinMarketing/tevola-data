@@ -1,13 +1,12 @@
 [
   {
-    "id": "admin-1748305075464",
+    "id": "admin-001",
     "username": "admin",
-    "email": "admin@tevola.com",
-    "password": "admin123",
+    "password": "$2b$10$rOzJqQZ8kVxHxGxGxGxGxOzJqQZ8kVxHxGxGxGxGxOzJqQZ8kVxHxG",
     "role": "admin",
     "isActive": true,
-    "createdAt": "2025-05-27T00:17:55.465Z",
-    "lastLogin": "2025-05-27T00:25:36.828Z",
-    "mustChangePassword": false
+    "requirePasswordChange": false,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "lastLogin": null
   }
 ]
