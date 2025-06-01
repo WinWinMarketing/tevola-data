@@ -1,0 +1,17 @@
+{
+  "currency": "CAD",
+  "taxRate": 13,
+  "companyName": "Tevola Kitchen & Vanity",
+  "companyAddress": "",
+  "companyPhone": "",
+  "companyEmail": "",
+  "github": {
+    "enabled": false,
+    "username": "",
+    "repo": "",
+    "token": "",
+    "syncFrequency": 5,
+    "conflictStrategy": "lastWriteWins",
+    "initialSyncComplete": false
+  }
+}
