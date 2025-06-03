@@ -1,182 +1,182 @@
 [
   {
-    "id": "1747164444269-e6poks2",
+    "id": "1748312290848-mturf54",
     "hardwareId": "1747164444263-oduq5vk",
     "quantity": 0,
     "minQuantity": 10,
     "alertsEnabled": false,
     "attachments": [],
     "notes": "",
-    "lastUpdated": "2025-05-23T18:18:57.848Z"
+    "lastUpdated": "2025-05-27T02:29:02.998Z"
   },
   {
-    "id": "1747164465937-em8fwba",
+    "id": "1748312290848-34nuh04",
     "hardwareId": "1747164465930-fk23s80",
     "quantity": 0,
     "minQuantity": 10,
     "alertsEnabled": false,
     "attachments": [],
     "notes": "",
-    "lastUpdated": "2025-05-23T18:18:57.854Z"
+    "lastUpdated": "2025-05-27T02:29:03.006Z"
   },
   {
-    "id": "1747164500561-9xi61co",
+    "id": "1748312290848-mqxuooa",
     "hardwareId": "1747164500555-fwnkcxv",
     "quantity": 0,
     "minQuantity": 10,
     "alertsEnabled": false,
     "attachments": [],
     "notes": "",
-    "lastUpdated": "2025-05-23T18:18:57.860Z"
+    "lastUpdated": "2025-05-27T02:29:03.013Z"
   },
   {
-    "id": "1747164521415-efqpi28",
+    "id": "1748312290848-dk5tj0v",
     "hardwareId": "1747164521409-rx1l38a",
     "quantity": 0,
     "minQuantity": 10,
     "alertsEnabled": false,
     "attachments": [],
     "notes": "",
-    "lastUpdated": "2025-05-13T19:28:41.415Z"
+    "lastUpdated": "2025-05-27T02:18:10.848Z"
   },
   {
-    "id": "1747344691422-y1jh7zx",
+    "id": "1748312290848-to5ar80",
     "hardwareId": "1747344691411-484o6o9",
     "quantity": 0,
     "minQuantity": 10,
     "alertsEnabled": false,
     "attachments": [],
     "notes": "",
-    "lastUpdated": "2025-05-15T21:31:31.422Z"
+    "lastUpdated": "2025-05-27T02:18:10.848Z"
   },
   {
-    "id": "1747344712568-nohr1rg",
+    "id": "1748312290848-fnr1mhc",
     "hardwareId": "1747344712557-yuwe57b",
     "quantity": 0,
     "minQuantity": 10,
     "alertsEnabled": false,
     "attachments": [],
     "notes": "",
-    "lastUpdated": "2025-05-15T21:31:52.568Z"
+    "lastUpdated": "2025-05-27T02:18:10.848Z"
   },
   {
-    "id": "1747345152278-kjuq8qe",
+    "id": "1748312290848-r0mjm39",
     "hardwareId": "1747345152267-nrsqhfg",
     "quantity": 0,
     "minQuantity": 10,
     "alertsEnabled": false,
     "attachments": [],
     "notes": "",
-    "lastUpdated": "2025-05-15T21:39:12.278Z"
+    "lastUpdated": "2025-05-27T02:29:03.019Z"
   },
   {
-    "id": "1747345333175-7l7s3to",
+    "id": "1748312290848-95qxdz5",
     "hardwareId": "1747345333165-381huun",
     "quantity": 0,
     "minQuantity": 10,
     "alertsEnabled": false,
     "attachments": [],
     "notes": "",
-    "lastUpdated": "2025-05-15T21:42:13.175Z"
+    "lastUpdated": "2025-05-27T02:18:10.848Z"
   },
   {
-    "id": "1748023843285-ndihwcq",
+    "id": "1748312290848-p5varx3",
     "hardwareId": "1748023843275-ifem47l",
     "quantity": 0,
     "minQuantity": 10,
     "alertsEnabled": false,
     "attachments": [],
     "notes": "",
-    "lastUpdated": "2025-05-23T18:10:43.285Z"
+    "lastUpdated": "2025-05-27T02:18:10.848Z"
   },
   {
-    "id": "1748277738362-i3441or",
+    "id": "1748312290848-55jkze7",
     "hardwareId": "1748277738346-4yfy3pw",
     "quantity": 0,
     "minQuantity": 10,
     "alertsEnabled": false,
     "attachments": [],
     "notes": "",
-    "lastUpdated": "2025-05-26T16:42:18.362Z"
+    "lastUpdated": "2025-05-27T02:18:10.848Z"
   },
   {
-    "id": "1748277750710-squ90aw",
+    "id": "1748312290848-fh2ovw6",
     "hardwareId": "1748277750695-k4paybu",
     "quantity": 0,
     "minQuantity": 10,
     "alertsEnabled": false,
     "attachments": [],
     "notes": "",
-    "lastUpdated": "2025-05-26T16:42:30.710Z"
+    "lastUpdated": "2025-05-27T02:18:10.848Z"
   },
   {
-    "id": "1748277765430-pih8r6f",
+    "id": "1748312290848-aadq76r",
     "hardwareId": "1748277765417-jdr2ok9",
     "quantity": 0,
     "minQuantity": 10,
     "alertsEnabled": false,
     "attachments": [],
     "notes": "",
-    "lastUpdated": "2025-05-26T16:42:45.430Z"
+    "lastUpdated": "2025-05-27T02:18:10.848Z"
   },
   {
-    "id": "1748277784369-cqvt3x3",
+    "id": "1748312290848-2si4cll",
     "hardwareId": "1748277784353-bzulxhz",
     "quantity": 0,
     "minQuantity": 10,
     "alertsEnabled": false,
     "attachments": [],
     "notes": "",
-    "lastUpdated": "2025-05-26T16:43:04.369Z"
+    "lastUpdated": "2025-05-27T02:18:10.848Z"
   },
   {
-    "id": "1748277797588-916913h",
+    "id": "1748312290848-s1s7cog",
     "hardwareId": "1748277797574-jc7mksn",
     "quantity": 0,
     "minQuantity": 10,
     "alertsEnabled": false,
     "attachments": [],
     "notes": "",
-    "lastUpdated": "2025-05-26T16:43:17.588Z"
+    "lastUpdated": "2025-05-27T02:18:10.848Z"
   },
   {
-    "id": "1748277817474-5ph36bg",
+    "id": "1748312290848-xbdvtis",
     "hardwareId": "1748277817457-an3aodz",
     "quantity": 0,
     "minQuantity": 10,
     "alertsEnabled": false,
     "attachments": [],
     "notes": "",
-    "lastUpdated": "2025-05-26T16:43:37.474Z"
+    "lastUpdated": "2025-05-27T02:18:10.848Z"
   },
   {
-    "id": "1748278846565-s09popv",
+    "id": "1748312290848-qvleh5m",
     "hardwareId": "1748278846556-uquh1ue",
     "quantity": 0,
     "minQuantity": 10,
     "alertsEnabled": false,
     "attachments": [],
     "notes": "",
-    "lastUpdated": "2025-05-26T17:00:46.565Z"
+    "lastUpdated": "2025-05-27T02:18:10.848Z"
   },
   {
-    "id": "1748278858583-d41acaa",
+    "id": "1748312290848-kigarol",
     "hardwareId": "1748278858573-d83arp5",
     "quantity": 0,
     "minQuantity": 10,
     "alertsEnabled": false,
     "attachments": [],
     "notes": "",
-    "lastUpdated": "2025-05-26T17:00:58.583Z"
+    "lastUpdated": "2025-05-27T02:18:10.848Z"
   },
   {
-    "id": "1748278891192-15hqrqm",
+    "id": "1748312290848-cwr38el",
     "hardwareId": "1748278891180-swoicqz",
     "quantity": 0,
     "minQuantity": 10,
     "alertsEnabled": false,
     "attachments": [],
     "notes": "",
-    "lastUpdated": "2025-05-26T17:01:31.192Z"
+    "lastUpdated": "2025-05-27T02:18:10.848Z"
   }
 ]
