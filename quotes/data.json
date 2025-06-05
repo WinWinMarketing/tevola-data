@@ -1,1 +1,268 @@
-[]
+[
+  {
+    "id": "TK001",
+    "customerId": "1748983014866-p3byt3a",
+    "customerName": "Murali",
+    "projectTypeId": "1748982418850-u87wzg5",
+    "projectTypeName": "Basement Kitchen",
+    "deliveryLocationId": "1748814954069-28gy2rs",
+    "deliveryLocationName": "Scarborough",
+    "date": "2025-06-03",
+    "notes": "$1000 install",
+    "simpleDescription": "- Melamine Boxes\n- MDF Doors (High Gloss Finish)\n- Laminate Counter, Dual Sink Basin\n- Soft Close Hinges, Soft Close Drawers\n- Metal Handles, Delivery",
+    "items": {
+      "labour": [
+        {
+          "id": "1748982890893-0wueu2l",
+          "description": "Measuring",
+          "cost": 40
+        },
+        {
+          "id": "1748982901863-mefmxl2",
+          "description": "Designing",
+          "cost": 40
+        },
+        {
+          "id": "1748982911187-yjftute",
+          "description": "Programming",
+          "cost": 40
+        },
+        {
+          "id": "1748982921951-nlt5juk",
+          "description": "CNC Cutting",
+          "cost": 200
+        },
+        {
+          "id": "1748982931322-keg2baa",
+          "description": "Edge Banding",
+          "cost": 200
+        },
+        {
+          "id": "1748982941648-aqzbr9n",
+          "description": "Assembly",
+          "cost": 300
+        },
+        {
+          "id": "1748982951401-fb2pgll",
+          "description": "QC",
+          "cost": 40
+        },
+        {
+          "id": "1748982975953-7q4k5ve",
+          "description": "Loading",
+          "cost": 40
+        }
+      ],
+      "wood": [
+        {
+          "id": "1748983073271-r2a92q9",
+          "woodTypeId": "1747163536749-6zxdh3g",
+          "name": "5/8 White Melamine",
+          "dimensions": "4x8",
+          "quantity": 23,
+          "unitPrice": 29.6,
+          "supplierId": "1747110982394",
+          "supplierName": "Commonwealth Plywood",
+          "total": 680.8000000000001
+        },
+        {
+          "id": "1748983598097-tt9zkm3",
+          "woodTypeId": "1747163681149-2qlfsf0",
+          "name": "3/4 H.G White MDF",
+          "dimensions": "4x8",
+          "quantity": 8,
+          "unitPrice": 85,
+          "supplierId": "1747112208236",
+          "supplierName": "Royal Crown Plywood",
+          "total": 680
+        }
+      ],
+      "hardware": [
+        {
+          "id": "1748983110675-6idsl5q",
+          "hardwareId": "1747164444263-oduq5vk",
+          "name": "Chinese Hinges",
+          "quantity": 16,
+          "unitPrice": 1.5,
+          "total": 24
+        },
+        {
+          "id": "1748983136498-p8hvam5",
+          "hardwareId": "1747164465930-fk23s80",
+          "name": "Chinese Drawer Slides",
+          "quantity": 16,
+          "unitPrice": 10,
+          "total": 160
+        },
+        {
+          "id": "1748983148897-t3dznvj",
+          "hardwareId": "1747164500555-fwnkcxv",
+          "name": "Black Handles (128mm)",
+          "quantity": 24,
+          "unitPrice": 4,
+          "total": 96
+        },
+        {
+          "id": "1748983792151-gp17fke",
+          "hardwareId": "1747345152267-nrsqhfg",
+          "name": "Quartz",
+          "quantity": 33,
+          "unitPrice": 35,
+          "total": 1155
+        }
+      ]
+    },
+    "labourTotal": 900,
+    "woodTotal": 1360.8000000000002,
+    "hardwareTotal": 1435,
+    "deliveryTotal": 0,
+    "baseTotal": 3695.8,
+    "initialProfitPercent": 40,
+    "initialProfitAmount": 1478.3200000000002,
+    "subtotal": 5174.120000000001,
+    "additionalProfitPercent": 10,
+    "additionalProfitAmount": 517.4120000000001,
+    "pretaxTotal": 5691.532000000001,
+    "taxPercent": 13,
+    "taxAmount": 739.8991600000002,
+    "total": 6431.431160000001,
+    "status": "draft"
+  },
+  {
+    "id": "TK002",
+    "customerId": "1748987334183-dtojgeo",
+    "customerName": "Kali",
+    "projectTypeId": "1748982418850-u87wzg5",
+    "projectTypeName": "Basement Kitchen",
+    "deliveryLocationId": "1748814954069-28gy2rs",
+    "deliveryLocationName": "Scarborough",
+    "date": "2025-06-03",
+    "notes": "$600 install",
+    "simpleDescription": "- Melamine Boxes\n- MDF Doors (High Gloss Finish)\n- Laminate Counter, Dual Sink Basin\n- Soft Close Hinges, Soft Close Drawers\n- Metal Handles, Delivery",
+    "items": {
+      "labour": [
+        {
+          "id": "1748982890893-0wueu2l",
+          "description": "Measuring",
+          "cost": 40
+        },
+        {
+          "id": "1748982901863-mefmxl2",
+          "description": "Designing",
+          "cost": 40
+        },
+        {
+          "id": "1748982911187-yjftute",
+          "description": "Programming",
+          "cost": 40
+        },
+        {
+          "id": "1748982921951-nlt5juk",
+          "description": "CNC Cutting",
+          "cost": 200
+        },
+        {
+          "id": "1748982931322-keg2baa",
+          "description": "Edge Banding",
+          "cost": 200
+        },
+        {
+          "id": "1748982941648-aqzbr9n",
+          "description": "Assembly",
+          "cost": 300
+        },
+        {
+          "id": "1748982951401-fb2pgll",
+          "description": "QC",
+          "cost": 40
+        },
+        {
+          "id": "1748982975953-7q4k5ve",
+          "description": "Loading",
+          "cost": 40
+        }
+      ],
+      "wood": [
+        {
+          "id": "1748987415390-n43m3yr",
+          "woodTypeId": "1747163536749-6zxdh3g",
+          "name": "5/8 White Melamine",
+          "dimensions": "4x8",
+          "quantity": 11,
+          "unitPrice": 29.6,
+          "supplierId": "1747110982394",
+          "supplierName": "Commonwealth Plywood",
+          "total": 325.6
+        },
+        {
+          "id": "1748987428006-miu5ii6",
+          "woodTypeId": "1747163681149-2qlfsf0",
+          "name": "3/4 H.G White MDF",
+          "dimensions": "4x8",
+          "quantity": 4,
+          "unitPrice": 85,
+          "supplierId": "1747112208236",
+          "supplierName": "Royal Crown Plywood",
+          "total": 340
+        }
+      ],
+      "hardware": [
+        {
+          "id": "1748987448277-gqei1e8",
+          "hardwareId": "1747164444263-oduq5vk",
+          "name": "Chinese Hinges",
+          "quantity": 30,
+          "unitPrice": 1.5,
+          "total": 45
+        },
+        {
+          "id": "1748987462328-veq6f8u",
+          "hardwareId": "1747164465930-fk23s80",
+          "name": "Chinese Drawer Slides",
+          "quantity": 6,
+          "unitPrice": 10,
+          "total": 60
+        },
+        {
+          "id": "1748987470901-euw80ro",
+          "hardwareId": "1747164500555-fwnkcxv",
+          "name": "Black Handles (128mm)",
+          "quantity": 18,
+          "unitPrice": 4,
+          "total": 72
+        },
+        {
+          "id": "1748987562202-w7mc461",
+          "hardwareId": "1747345152267-nrsqhfg",
+          "name": "Quartz",
+          "quantity": 30,
+          "unitPrice": 35,
+          "total": 1050
+        },
+        {
+          "id": "1748987571872-9gzl70y",
+          "hardwareId": "1747345333165-381huun",
+          "name": "Kitchen Sink",
+          "quantity": 1,
+          "unitPrice": 200,
+          "total": 200
+        }
+      ]
+    },
+    "labourTotal": 900,
+    "woodTotal": 665.6,
+    "hardwareTotal": 1427,
+    "deliveryTotal": 0,
+    "baseTotal": 2992.6,
+    "initialProfitPercent": 0,
+    "initialProfitAmount": 0,
+    "subtotal": 2992.6,
+    "additionalProfitPercent": 0,
+    "additionalProfitAmount": 0,
+    "pretaxTotal": 2992.6,
+    "taxPercent": 13,
+    "taxAmount": 389.038,
+    "total": 3381.638,
+    "status": "draft"
+  }
+]
